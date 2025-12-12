@@ -1,4 +1,6 @@
-Tarea Java Swing – Simulador Bancario Interactivo
+**Tarea Java Swing**
+
+– Simulador Bancario Interactivo
 
 Objetivo:
 
@@ -37,7 +39,7 @@ En la opción de Depósito va a permitir depositar un valor y después saldrá u
 <img width="346" height="180" alt="image" src="https://github.com/user-attachments/assets/034eaa52-f0aa-44ba-8577-65a91c47bc48" />
 
 
-**Opción de Retiro **
+**Opción de Retiro**
 
 En la siguiente opción que es la de Retiro esto permitirá ingresar el valor a retirar y saldrá un mensaje de confinación siempre y cuando el retiro sea válido , además ese monto ingresado se descontara del saldo del usuario.  
 
@@ -65,12 +67,13 @@ Sino es el caso simplemente se realizará
 Mostrando el monto trasferido y el saldo actual ya descontado el monto 
 
 
-**Opción de Salida **
+**Opcion Salida**
 
 La última opción de salida permitirá finalizar la ejecución del programa con una ventana que confirmara que se eligió esta opción al usuario. 
 Para finalizar el esta Simulación del Sistema Bancario es muy fácil de utilizar ya que son procesos concretos y en la interfaz nos da a entender cada acción que se va a realizar. 
  
  <img width="335" height="149" alt="image" src="https://github.com/user-attachments/assets/4d9eb947-11df-4688-ba70-bc41d68abd74" />
+
 
 
 
