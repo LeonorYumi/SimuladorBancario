@@ -1,6 +1,9 @@
 Tarea Java Swing – Simulador Bancario Interactivo
+
 Objetivo:
+
 Comprender y realizar una simulación de un sistema bancario utilizando Swing Java Design
+
 **Inicio(Login)**
 El sistema Bancario al inicio de su ejecución muestra la ventana del Login la cual permite que el usuario ingrese al sistema. 
 <img width="430" height="264" alt="image" src="https://github.com/user-attachments/assets/adea74fb-19f1-4d9b-9bea-4265877ba5fb" />
@@ -52,6 +55,7 @@ La última opción de salida permitirá finalizar la ejecución del programa con
 Para finalizar el esta Simulación del Sistema Bancario es muy fácil de utilizar ya que son procesos concretos y en la interfaz nos da a entender cada acción que se va a realizar. 
  
  <img width="335" height="149" alt="image" src="https://github.com/user-attachments/assets/4d9eb947-11df-4688-ba70-bc41d68abd74" />
+
 
 
 
